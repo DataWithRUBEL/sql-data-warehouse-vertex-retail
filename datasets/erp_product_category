@@ -1,0 +1,38 @@
+ID	CAT	SUBCAT	MAINTENANCE
+NC_BR	Vertex Accessories	Pro Bike Racks	No
+NC_BS	Vertex Accessories	Pro Bike Stands	Yes
+NC_BC	Vertex Accessories	Pro Bottles and Cages	Yes
+NC_CL	Vertex Accessories	Pro Cleaners	No
+NC_FE	Vertex Accessories	Pro Fenders	Yes
+NC_HE	Vertex Accessories	Pro Helmets	No
+NC_HP	Vertex Accessories	Pro Hydration Packs	Yes
+NC_LI	Vertex Accessories	Pro Lights	No
+NC_LO	Vertex Accessories	Pro Locks	No
+NC_PA	Vertex Accessories	Pro Panniers	Yes
+NC_PU	Vertex Accessories	Pro Pumps	No
+NC_TT	Vertex Accessories	Pro Tires and Tubes	No
+NI_MB	Vertex Bikes	Pro Mountain Bikes	No
+NI_RB	Vertex Bikes	Pro Road Bikes	No
+NI_TB	Vertex Bikes	Pro Touring Bikes	No
+NL_BS	Vertex Clothing	Pro Bib-Shorts	Yes
+NL_CA	Vertex Clothing	Pro Caps	Yes
+NL_GL	Vertex Clothing	Pro Gloves	Yes
+NL_JE	Vertex Clothing	Pro Jerseys	Yes
+NL_SH	Vertex Clothing	Pro Shorts	Yes
+NL_SO	Vertex Clothing	Pro Socks	Yes
+NL_TI	Vertex Clothing	Pro Tights	Yes
+NL_VE	Vertex Clothing	Pro Vests	Yes
+NO_BB	Vertex Components	Pro Bottom Brackets	No
+NO_BR	Vertex Components	Pro Brakes	No
+NO_CH	Vertex Components	Pro Chains	No
+NO_CS	Vertex Components	Pro Cranksets	No
+NO_DE	Vertex Components	Pro Derailleurs	No
+NO_FO	Vertex Components	Pro Forks	No
+NO_HB	Vertex Components	Pro Handlebars	Yes
+NO_HS	Vertex Components	Pro Headsets	Yes
+NO_MF	Vertex Components	Pro Mountain Frames	No
+NO_PD	Vertex Components	Pro Pedals	Yes
+NO_RF	Vertex Components	Pro Road Frames	No
+NO_SA	Vertex Components	Pro Saddles	Yes
+NO_TF	Vertex Components	Pro Touring Frames	No
+NO_WH	Vertex Components	Pro Wheels	No
